@@ -18,3 +18,6 @@ Input the dork you want to look up.
 <sub>If you want to find Google dorks, please visit [this website](https://www.exploit-db.com/google-hacking-database) where you can find a lot of examples/ideas.</sub>
 
 Once done, all the links found will be saved to a file named with the date and time used when running the script.
+
+
+Thank you for using my script. If you encounter any problems or bugs, please create an issue, I'll be more than happy to help!
