@@ -1,4 +1,4 @@
-# Google_Dorks_Finder
+# Google Dorks Finder
 Very easy tool to scrape Google using dorks.
 Made entirely in Python3.
 
