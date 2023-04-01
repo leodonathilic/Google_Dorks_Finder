@@ -9,7 +9,7 @@ In this repository, you will find a requirements.txt file.
 The easy way to install every requirements is to open a command prompt (CMD) and travel to the folder's directory.
 Once done, type `pip -r requirements.txt` in the command prompt and please wait for every module to install (should be quick).
 
-##Usage
+## Usage
 
 Hooray! You can now use Google Dorks Finder!
 Just double click on the script on Windows or input `py google_dorks.py` into your command prompt.
